@@ -14,4 +14,6 @@
    Parse the content of the response file to extract the data returned by the microservice.
    Once the file is updated by the microservice, read the content of the file to retrieve the conversion result.
 
+<img width="655" alt="Screen Shot 2024-02-26 at 10 59 05 PM" src="https://github.com/patelta01/microservice/assets/157430405/2c8373a3-c647-4693-be13-800c5e1b5883">
+
    
